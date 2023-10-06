@@ -1,3 +1,5 @@
+#ROWE PEARL ROWENA
+#SCT211-0678/2021
 bill =float(input("enter amount"))
 Percentage_tip=int(input(" tip is 10%,12% or 15%"))
 Number_of_people=int(input("Number of people splitting bill is"))
